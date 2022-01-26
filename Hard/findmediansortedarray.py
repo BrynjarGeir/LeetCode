@@ -1,4 +1,4 @@
-from math import ceil, floor
+from math import floor
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
